@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LightStrikeCircle
-- 👀 I’m interested in making fun code and useful code! I am currently considering making a Minecraft Forge mod and a discord bot.
-- 🌱 I’m currently learning Computer Science at Michigan Tech!
-- 💞️ I’m looking to collaborate on just about anything! I'm still learning code, so I'll take any experience.
+- 👀 I’m interested in making fun code and useful code! I am currently making code for friends.
+- 🌱 I’ve recently graduated with a degree in Computer Science at Michigan Tech!
+- 💞️ I’m looking to collaborate on just about anything! Any experience is welcome to me.
 - 📫 How to reach me: send an email to adcim26@gmail.com! I'll be glad to get in touch with you!
 
 <!---
